@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>Notification</title>
+</head>
+<body>
+    <h1>Hello, $user.name!</h1>
+    <p>This is a notification.</p>
+</body>
+</html>
